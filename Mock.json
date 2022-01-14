@@ -15,7 +15,7 @@
       "responses": [
         {
           "uuid": "633eb457-2c86-47a1-aff6-376a3f146337",
-          "body": "{\n  Hi, there\n}",
+          "body": "{\n  Hi, \n}",
           "latency": 0,
           "statusCode": 200,
           "label": "",
